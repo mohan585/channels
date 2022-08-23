@@ -1,6 +1,19 @@
+#EXTM3U x-tvg-url="http://rstream.me/epg.xml.gz"
+#EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/whcNdqxkqA.png" tvg-chno="1" group-title="KIDS(MM)",Disney
+udp://@239.255.1.246:1234
+#EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/ptkXFADQVO.png" tvg-chno="2" group-title="KIDS(MM)",Pogo
+udp://@239.255.1.7:1234
+#EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/VwDdnSCEDw.png" tvg-chno="3" group-title="KIDS(MM)",Disney Junior
+udp://@239.255.1.250:1234
+#EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/bwFHqlCGNT.png" tvg-chno="4" group-title="KIDS(MM)",NICK
+udp://@239.255.1.105:1234
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1200px-Hungama_TV.svg.png" tvg-chno="5" group-title="KIDS(MM)",Hungama
+udp://@239.255.1.45:1234
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Super_Hungama_Logo.png" tvg-chno="6" group-title="KIDS(MM)",Superhungama
+udp://@239.255.1.160:1234
 #EXTINF:-1,AP Fiber
 udp://@239.255.1.184:1234
 #EXTINF:-1,Zee Telugu
 udp://@239.255.1.145:1234
-#EXTINF:-1,Viasat Sport Baltic
-udp://@233.136.41.36:1234
+#EXTINF:-1,Maa Tv HD
+udp://@239.255.1.199:1234
